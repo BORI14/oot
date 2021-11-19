@@ -1,0 +1,331 @@
+/*PARTE SULLO STILE*/
+
+@media (min-width:1000px) {
+
+
+
+body {
+  padding: 45px;
+  background: url('sfonn.gif'), url('sfonn2.gif');
+  background-color: white;
+  background-size: 40% 40%;
+  background-attachment: fixed;
+
+}
+
+
+background-image{
+  
+  background-position: center;
+  width:100%;
+  max-width:100%;
+}
+
+h1 {
+  color: white;
+  font-family:verdana;
+  font-size: 3vw;
+}
+p {
+  color: Grey;
+  font-size:1vw
+ }
+
+ul{
+  color: GREY ;
+  font-family:verdana;
+}
+table, th, td{
+font-family:verdana;
+color:White;
+text-align:center;
+}
+
+td{
+  
+   padding: 3vw;
+}
+
+
+th{
+  
+  padding: 4vw;
+}
+
+
+  nav{
+    background-image: url('metal-grunge-metallic-steel-1536.jpg');
+    font-family:verdana;
+    font-size :1.5vw; 
+    position:absolute;
+    display: inline-block;
+    padding-bottom: 4vw;
+    
+  }
+  
+  .aa{
+
+    padding-top: 5vw;
+  }
+  
+  
+  nav p{
+   padding: 0.3vw;
+   display: inline-block;
+  
+  }
+  
+  nav ul{
+     display: inline-block;
+  
+    }
+
+  nav img{
+    width:7vw;
+    height:auto;
+    vertical-align: middle;
+  }
+  
+iframe{
+
+  width:20vw;
+  height:12vw;
+}
+  h2{
+    font-family:verdana;
+    color: white;
+    font-size: 1.5vw;
+  }
+
+h3{
+  font-family:verdana;
+  font-size :1vw; 
+  color: white;
+  
+}
+
+h4{
+  font-family:verdana;
+  font-size :100; 
+  color: white;
+  
+}
+
+a {
+  color: yellow;
+}
+
+table{
+  margin-left:auto;margin-right:auto;
+}
+
+form{
+  color: Grey;
+
+}
+
+div{
+  color:Grey;
+  
+}
+
+.boxbll{
+filter:shadow;
+width:25vw;
+padding:1vw;
+background-color:black;
+border:2px solid grey;
+color:grey;
+font-size:1vw
+}
+
+
+img{
+
+  max-width:100%;height:auto;
+}
+
+.center {
+  display: flex;
+justify-content: center;
+
+}
+
+
+.formz{
+  width:25vw;
+  padding:1vw;
+
+}
+
+}
+
+
+
+/*AAAAAAAAA LINE AAAAAAAAAAAA*/
+/*AAAAAAAAA LINE AAAAAAAAAAAA*/
+/*AAAAAAAAA LINE AAAAAAAAAAAA*/
+
+@media (max-width:1000px) {
+
+  
+
+
+body {
+  padding: 45px;
+  background: url('sfonn.gif'), url('sfonn2.gif');
+  background-color: white;
+  background-size: 40% 40%;
+  background-attachment: fixed;
+}
+
+
+body background-image{
+  background-position: center;
+  width:100%;
+  max-width:100%;
+}
+
+h1 {
+  color: white;
+  font-family:verdana;
+  font-size: 12vw;
+}
+p {
+  color: Grey;
+  font-size:3vw
+ }
+
+ul{
+  color: GREY ;
+  font-family:verdana;
+}
+table, th, td{
+font-family:verdana;
+color:White;
+text-align:center;
+}
+
+
+
+th{
+  
+  padding: vw;
+}
+
+
+  nav{
+    background-image: url('metal-grunge-metallic-steel-1536.jpg');
+    font-family:verdana;
+    font-size :0vw; 
+    position:absolute;
+    display: inline-block;
+    padding: 4vw;
+    
+  }
+  
+  .aa{
+
+    padding-top: 12vw;
+  }
+  
+  
+  nav p{
+   display: inline-block;
+  
+  }
+  
+  nav ul{
+     display: inline-block;
+  
+    }
+
+  nav img{
+    width:11vw;
+    height:auto;
+    vertical-align: middle;
+  }
+  
+iframe{
+
+  width:70vw;
+  height:40vw;
+}
+  h2{
+    font-family:verdana;
+    color: white;
+    font-size: 6vw;
+  }
+
+h3{
+  font-family:verdana;
+  font-size :5vw; 
+  color: white;
+  
+}
+
+h4{
+  font-family:verdana;
+  font-size :1vw; 
+  color: white;
+  
+}
+
+a {
+  color: yellow;
+}
+
+table{
+  margin-left:auto;margin-right:auto;
+}
+
+form{
+  color: Grey;
+
+}
+
+div{
+  color:Grey;
+  
+}
+
+.boxbll{
+filter:shadow;
+width:60vw;
+padding:1vw;
+background-color:black;
+border:2px solid grey;
+color:grey;
+font-size:5vw
+}
+
+
+img{
+
+  max-width:100%;height:auto;
+}
+
+.center {
+  display: flex;
+justify-content: center;
+
+}
+
+
+.formz{
+  width:25vw;
+  padding:1vw;
+
+}
+
+.dates h3{
+font-size:3.5vw
+}
+
+}
+
+.bandimage{
+float: right;
+width:40vw;
+ height:10 ;
+}
